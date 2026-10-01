@@ -1,0 +1,18 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environments & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+# OS-specific temporary files
+.DS_Store
+Thumbs.db
+
+# Data files (uncomment if your datasets are too large for Git)
+# *.csv
+# *.json
